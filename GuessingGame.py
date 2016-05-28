@@ -8,6 +8,6 @@ def guessing_game():
     elif(n < a):
         print("You need to guess HIGHER")
     elif(n == a):
-        print("HOLY SHIT")
+        print("WOW")
     else:
         return 0 
