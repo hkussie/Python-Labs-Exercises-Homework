@@ -13,7 +13,7 @@ def lets_play():
     elif(option1 < option2):
         print("YOU LOOSE")
     elif(option1 == option2):
-        print("You tied, you fuck")
+        print("You and you're opponent tied.")
     else:
-        print("You done fucked up")
+        return 0
     
